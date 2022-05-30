@@ -1,6 +1,6 @@
 <h1>Tours</h1>
 
-<p align="#center">
+<p align="center">
   <a href="#about">About</a>
    <a href="#roadmap">Roadmap</a>
    <a href="#tecnologias">Tecnologias</a>
